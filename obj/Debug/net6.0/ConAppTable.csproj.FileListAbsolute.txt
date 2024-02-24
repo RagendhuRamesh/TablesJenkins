@@ -1,0 +1,14 @@
+C:\Users\Ragendhu\source\repos\Phase4\ConAppTable\ConAppTable\bin\Debug\net6.0\ConAppTable.exe
+C:\Users\Ragendhu\source\repos\Phase4\ConAppTable\ConAppTable\bin\Debug\net6.0\ConAppTable.deps.json
+C:\Users\Ragendhu\source\repos\Phase4\ConAppTable\ConAppTable\bin\Debug\net6.0\ConAppTable.runtimeconfig.json
+C:\Users\Ragendhu\source\repos\Phase4\ConAppTable\ConAppTable\bin\Debug\net6.0\ConAppTable.dll
+C:\Users\Ragendhu\source\repos\Phase4\ConAppTable\ConAppTable\bin\Debug\net6.0\ConAppTable.pdb
+C:\Users\Ragendhu\source\repos\Phase4\ConAppTable\ConAppTable\obj\Debug\net6.0\ConAppTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ragendhu\source\repos\Phase4\ConAppTable\ConAppTable\obj\Debug\net6.0\ConAppTable.AssemblyInfoInputs.cache
+C:\Users\Ragendhu\source\repos\Phase4\ConAppTable\ConAppTable\obj\Debug\net6.0\ConAppTable.AssemblyInfo.cs
+C:\Users\Ragendhu\source\repos\Phase4\ConAppTable\ConAppTable\obj\Debug\net6.0\ConAppTable.csproj.CoreCompileInputs.cache
+C:\Users\Ragendhu\source\repos\Phase4\ConAppTable\ConAppTable\obj\Debug\net6.0\ConAppTable.dll
+C:\Users\Ragendhu\source\repos\Phase4\ConAppTable\ConAppTable\obj\Debug\net6.0\refint\ConAppTable.dll
+C:\Users\Ragendhu\source\repos\Phase4\ConAppTable\ConAppTable\obj\Debug\net6.0\ConAppTable.pdb
+C:\Users\Ragendhu\source\repos\Phase4\ConAppTable\ConAppTable\obj\Debug\net6.0\ConAppTable.genruntimeconfig.cache
+C:\Users\Ragendhu\source\repos\Phase4\ConAppTable\ConAppTable\obj\Debug\net6.0\ref\ConAppTable.dll
